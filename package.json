@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-template",
+  "private": true,
+  "description": "A simplified bare-bones starter for React Gatsby",
+  "version": "1.0.0",
+  "license": "(EUPL-1.2)",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.63",
+    "mdbreact": "^4.27.0",
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aichner/gatsby-template"
+  }
+}
