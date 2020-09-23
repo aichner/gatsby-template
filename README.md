@@ -1,14 +1,13 @@
 <p align="center">
   <a href="https://www.inspiremedia.at" target="_blank" rel="noopener noreferrer">
-    <img src="https://avatars1.githubusercontent.com/u/50574311?s=200&v=4" alt="Agency Logo" height="150" style="max-width: 100%" />
+    <img src="https://avatars1.githubusercontent.com/u/50574311?s=200&v=4" alt="Agency Logo" height="200" style="max-width: 100%" />
   </a>
 </p>
 
 <h3 align="center">Official ReactJS + Gatsby Template</h3>
 
 <p align="center">
-  This repository serves as an entry point for future React MDB Basic projects of the
-  Advertisement Agency Christian Aichner and beyond.
+  This repository serves as an entry point for future React + Gatsby projects of InspireMedia GmbH and beyond.
   <br>
   <br>
   <a href="https://github.com/aichner/gatsby-template/issues/new?template=bug_report.md">Report bug</a>
