@@ -1,3 +1,32 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Caching
 .cache
-node_modules
+
+# Dependencies
+/node_modules
+package-lock.json
+
+# Build
 public
+
+# MDB
+mdb*
+
+# Firebase
+src/config/fbConfig.js
+.firebase
+.firebaserc
+
+# Environment variables
+.env
+
+# All editor configs but vscode
+.editorconfig
+.idea
+
+# Logs
+*.log*
+
+# SPDX-License-Identifier: (EUPL-1.2)
+# Copyright © 2020 InspireMedia GmbH
